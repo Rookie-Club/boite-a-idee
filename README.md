@@ -113,7 +113,7 @@ Afficher les deux ? Faire une cartographie à deux niveaux : les outils et les a
 
 ## Liens
 
-https://sijinjoseph.com/programmer-competency-matrix/
-https://github.com/kamranahmedse/developer-roadmap
-https://yaf.github.io/journal-d-un-formateur-en-2015/
+- https://sijinjoseph.com/programmer-competency-matrix/
+- https://github.com/kamranahmedse/developer-roadmap
+- https://yaf.github.io/journal-d-un-formateur-en-2015/
 
