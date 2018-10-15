@@ -4,21 +4,21 @@ Dans la boite, il pourrait y avoir une fiche avec d'un coté, les domaines (ou u
 
 Savoir faire
 
-_programmer devant les autres_
-_programmer pour les autres_
-_passer des tutos au docs officiel_
-_acquerir vocabulaire_
-_lire des messages d'erreurs_
-_comprendre les commandes que je tape_
-_assurer de ne pas tout casser_
-_déployer_
+- _programmer devant les autres_
+- _programmer pour les autres_
+- _passer des tutos au docs officiel_
+- _acquerir vocabulaire_
+- _lire des messages d'erreurs_
+- _comprendre les commandes que je tape_
+- _assurer de ne pas tout casser_
+- _déployer_
 
 Savoir être
 
-_parler à l'autre du code_
-_Faire assimiler un concept_
-_Oser dire je ne sais pas_
-_Adapter son niveau de dialogue_
+- _Parler à l'autre du code_
+- _Faire assimiler un concept_
+- _Oser dire je ne sais pas_
+- _Adapter son niveau de dialogue_
 
 
 
